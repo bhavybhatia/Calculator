@@ -1,1 +1,1 @@
-<img src="ProjectPic.png" alt="Calculator in js" style="float: left; margin-right: 10px;"/>
+<img src="ProjectPic.png" alt="Calculator_js" style="float:left;margin-right:10px;"/>
