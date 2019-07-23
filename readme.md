@@ -1,0 +1,1 @@
+<img src="ProjectPic.png" alt="Calculator in js" style="float: left; margin-right: 10px;"/>
